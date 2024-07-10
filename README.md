@@ -1,6 +1,3 @@
-Bảng file
-![Screenshot 2024-07-10 093052](https://github.com/hungducdonga/Demo-Book-Store/assets/111270130/5d55cd15-a582-4391-94f4-a2cc79ba0632)
-![Screenshot 2024-07-10 093023](https://github.com/hungducdonga/Demo-Book-Store/assets/111270130/c0668f23-eca3-4761-b268-b5b1fa42cb3e)
 Trang đăng nhập - đăng kí
 ![Screenshot 2024-07-10 075517](https://github.com/hungducdonga/Demo-Book-Store/assets/111270130/777d7a32-00e1-4242-ba9c-f9e39802b0f5)
 ![Screenshot 2024-07-10 075448](https://github.com/hungducdonga/Demo-Book-Store/assets/111270130/2df3a996-fd26-47d1-9eab-a58d88dc5ac6)
