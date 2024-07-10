@@ -26,4 +26,4 @@ https://github.com/hungducdonga/Demo-Book-Store/assets/111270130/07edd355-a8ae-4
 https://github.com/hungducdonga/Demo-Book-Store/assets/111270130/87ec3f88-f92e-4dbc-976f-01d81ed1e9e0
 
 <p>Trang lịch sử đặt hàng</p> 
-![Screenshot 2024-07-10 075416](https://github.com/hungducdonga/Demo-Book-Store/assets/111270130/148e4c4f-2f11-4901-a95b-5a88fea40e31)
+https://github.com/hungducdonga/Demo-Book-Store/assets/111270130/148e4c4f-2f11-4901-a95b-5a88fea40e31
