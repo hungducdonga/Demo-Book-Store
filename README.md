@@ -5,6 +5,12 @@
   npm install
   npm start
 </pre>
+
+Bản báo cáo
+https://docs.google.com/document/d/1_cgjA4X3ryUrTZq4030Ng-0fIraU2x4U8vwwLdzuuSk/edit?usp=sharing
+
+Slide báo cáo
+https://docs.google.com/presentation/d/1nJL4hYFUQrZ9MVX1blr5OSkIKIR-8Ts_Ato_Vrwd9-g/edit?usp=sharing
   
 <p>Trang đăng nhập - đăng kí</p>
 https://github.com/hungducdonga/Demo-Book-Store/assets/111270130/777d7a32-00e1-4242-ba9c-f9e39802b0f5
